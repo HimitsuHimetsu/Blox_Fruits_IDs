@@ -1,14 +1,37 @@
 {
-    "ItemSounds": {
-            "Anchor": {
-                "AnchorXFire": 14825664986,
-                "AnchorXHit": 14825664851,
-                "AnchorXHitArmored": 14825665071,
-                "AnchorXHitStart": 14825665148,
-                "AnchorZBoom": 14825209927,
-                "AnchorZFire": 14825209779,
-                "AnchorZIntro": 14825210023,
-                "AnchorZLoop": 14825209677
-            }
-    }
+  "Weapon sounds": {
+    "Knife Stab": "142247768",
+    "Normal Gun Shoot": "10209803",
+    "Reload": "4753414199",
+    "Critical Hit (Gun Shot Landed)": "296102734",
+    "Crossbow Shoot": "7808472682",
+    "Trap Sound": "4966068844",
+    "Knife Burn": "177045481"
+  },
+  "Map/environmental sounds": {
+    "Bank Weapon Beep": "157771891",
+    "Bank Vault Spin": "2493923976",
+    "Bank Vault Air": "2493924096",
+     "Random Fuse": "104562155",
+     "Research Facility Scan": "4675514851",    
+     "Research Facility Teleporter Charge": "4641964351",
+     "Research Facility Teleporter Zap": "4641965219",
+     "Research Facility Electric Box Metal Stab": "4681153217",
+     "Research Facility Electric Box Metal Hit": "4681126360"
+  },
+  "Gear sounds": {
+    "Beach Ball Bounce": "9113262361",
+    "Beach Ball Catch": "9113730538",
+    "Party Whistle": "104605494"
+  },
+  "Game Sounds": {
+     "Coin": "131323304",
+     "Role Roll": "179235828",
+      "Role/Research Facility Ding": "179287602"
+  },
+  "Music": {
+    "Beat1": "13934589675",   
+    "Beat3": "320397765", 
+    "Beat4": "320403652"
+  }
 }
