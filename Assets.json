@@ -1,0 +1,14 @@
+{
+    "ItemSounds": {
+            "Anchor": {
+                "AnchorXFire": 14825664986,
+                "AnchorXHit": 14825664851,
+                "AnchorXHitArmored": 14825665071,
+                "AnchorXHitStart": 14825665148,
+                "AnchorZBoom": 14825209927,
+                "AnchorZFire": 14825209779,
+                "AnchorZIntro": 14825210023,
+                "AnchorZLoop": 14825209677
+            }
+    }
+}
